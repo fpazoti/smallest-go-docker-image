@@ -1,0 +1,1 @@
+# smallest-go-docker-image
