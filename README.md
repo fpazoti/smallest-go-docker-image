@@ -1,1 +1,2 @@
-# smallest-go-docker-image
+# Imagem
+- docker pull fpazoti/fullcycle-go-01
